@@ -3,4 +3,4 @@ Fast Nuces
 Batch of 2028
 Physics Geek 
 :)
-!(https://www.bing.com/images/search?q=computer&cbn=KnowledgeCard&stid=45ab54f1-1ed9-8c38-7736-bf0ed054730a&thid=OSK.HEROlIn2JC4obnhly57trrwqSl7MBeraLGLZeJCGnmf-3Js&FORM=KCHIMM)
+![image of computer architecture](https://media.gettyimages.com/id/1397047849/photo/abstract-circuit-board-with-a-lot-of-micro-chips.jpg?b=1&s=170667a&w=0&k=20&c=RJ1PWMo5fcGl1XaTeIQSOA3NdtgRDKO6QJfV9XMa8XQ=)
